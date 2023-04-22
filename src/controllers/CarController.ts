@@ -1,8 +1,6 @@
 import { Request, Response } from "express";
 import Car from "../database/models/CarModel";
 
-
-
 const CarController = {
 
     async index(req: Request, res: Response): Promise<Response> {

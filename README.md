@@ -13,8 +13,6 @@
 
 ## :page_facing_up: Descrição
 
-Projeto desenvolvido druante video do meu canal! <a href="https://www.youtube.com/channel/UCj9lHSHFW1eEAW8RDwXfXzA">Se inscreva no meu Canal!</a>
-
 Jubscleiton está lançando uma nova plataforma de vendas de carro. Nesta
 plataforma, desejamos realizar o cadastro de novos carros para os clientes
 consultarem.
@@ -44,14 +42,13 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [Mongo DB](https://www.mongodb.com/atlas/database)
 
-
 ## :clipboard: Funcionalidades
 
-  - [x] Listar todos os carros.
-  - [x] Criar carros.
-  - [x] Listar carro por id.
-  - [x] Editar carro por id .
-  - [x] Deletar carro por id.
+- [x] Listar todos os carros.
+- [x] Criar carros.
+- [x] Listar carro por id.
+- [x] Editar carro por id .
+- [x] Deletar carro por id.
 
 ## :closed_book: Instalação
 
@@ -78,16 +75,3 @@ $ yarn dev ou npm run dev
 
 # O app vai está rodando na porta 3333 - acesse <http://localhost:3333>
 ```
-
-## :man: Autor
-
-<a href="https://github.com/matheusteodoro01/">
- <img src="https://avatars.githubusercontent.com/u/60862196?v=4" width="70px;" alt=""/>
- <br />
- <sub><b>Matheus Teodoro</b></sub>
-</a>
-
-Feito com ❤️ por Matheus Teodoro :wave::wave: Entre em contato!🚀
-
-<a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/">
-</a>
